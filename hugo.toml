@@ -1,4 +1,4 @@
-baseURL = 'https://analogriktning.kallmoraberget.com/'
+baseURL = 'https://www.analogriktning.kallmoraberget.com/'
 languageCode = 'en-us'
 title = 'analog riktning'
 theme = 'hugo-theme-re-terminal-main'
