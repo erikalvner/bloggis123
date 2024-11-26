@@ -1,0 +1,4 @@
+baseURL = 'https://kallmoraberget.com/'
+languageCode = 'en-us'
+title = '// erik alvner // portfölj //'
+theme = 'hugo-theme-gallery-main'
