@@ -2,61 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/band-akter/</loc>
-    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fest-event/fest-sv/</loc>
-    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fest-event/</loc>
-    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fest-event/fest-f%C3%A4rg/</loc>
-    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/natur/</loc>
-    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fest-event/kostymdrama/</loc>
-  </url><url>
-    <loc>http://localhost:1313/fest-event/event/</loc>
-  </url><url>
-    <loc>http://localhost:1313/portratt/</loc>
-  </url><url>
-    <loc>http://localhost:1313/monokrom-vardag/</loc>
-  </url><url>
-    <loc>http://localhost:1313/mina-kameror/</loc>
-  </url><url>
-    <loc>http://localhost:1313/natur/arkitektur/</loc>
-    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/band-akter/baldnblondie/</loc>
-    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/flerval/</loc>
-    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-15T15:05:35+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/natur/slovenien/</loc>
-    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-09-15T15:05:35+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/natur/tr%C3%A4dg%C3%A5rdar/</loc>
-    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/ikoflex/</loc>
+    <lastmod>2024-09-15T15:05:35+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/flerval/val1/</loc>
-    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/svframkallningprocess/</loc>
+    <lastmod>2024-08-31T13:15:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/flerval/val2/</loc>
-    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/svframkallninglista/</loc>
+    <lastmod>2024-08-30T16:39:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/analogtinteotympligt/</loc>
+    <lastmod>2024-08-29T05:44:35+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/canonetql19/</loc>
+    <lastmod>2024-08-25T21:21:45+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/samsung/</loc>
+    <lastmod>2024-08-25T15:58:41+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/sony/</loc>
+    <lastmod>2024-08-25T13:54:49+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/imprint/</loc>
-  </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://localhost:1313/om/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/showcase/</loc>
   </url>
 </urlset>
