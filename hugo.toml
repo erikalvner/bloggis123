@@ -1,4 +1,4 @@
-baseURL = 'https://bloggis123.pages.dev/'
+baseURL = 'https://analogriktning.kallmoraberget.com/'
 languageCode = 'en-us'
 title = 'analog riktning'
 theme = 'hugo-theme-re-terminal-main'
