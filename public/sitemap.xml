@@ -2,39 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2024-09-15T15:05:35+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>//localhost:1313/posts/</loc>
     <lastmod>2024-09-15T15:05:35+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/ikoflex/</loc>
+    <loc>//localhost:1313/posts/ikoflex/</loc>
     <lastmod>2024-09-15T15:05:35+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/svframkallningprocess/</loc>
+    <loc>//localhost:1313/posts/svframkallningprocess/</loc>
     <lastmod>2024-08-31T13:15:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/svframkallninglista/</loc>
+    <loc>//localhost:1313/posts/svframkallninglista/</loc>
     <lastmod>2024-08-30T16:39:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/analogtinteotympligt/</loc>
+    <loc>//localhost:1313/posts/analogtinteotympligt/</loc>
     <lastmod>2024-08-29T05:44:35+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/canonetql19/</loc>
+    <loc>//localhost:1313/posts/canonetql19/</loc>
     <lastmod>2024-08-25T21:21:45+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/samsung/</loc>
+    <loc>//localhost:1313/posts/samsung/</loc>
     <lastmod>2024-08-25T15:58:41+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/sony/</loc>
+    <loc>//localhost:1313/posts/sony/</loc>
     <lastmod>2024-08-25T13:54:49+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>//localhost:1313/om/</loc>
+    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/om/</loc>
+    <loc>//localhost:1313/showcase/</loc>
+    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>//localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/showcase/</loc>
+    <loc>//localhost:1313/tags/</loc>
   </url>
 </urlset>

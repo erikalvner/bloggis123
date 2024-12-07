@@ -1,6 +1,6 @@
 +++
 title= "varför?"
-date= "2024 // 08 // 25"
+date= "2024-08-25"
 author= "erik alvner"
 hideComments= true
 cover= "trinitron001.jpg"

@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/home/erik/Documents/GitHub/analogriktning",
+	"sourceRoot": "/home/erik/Webbsajter/bloggis123",
 	"sources": [
 		"css/base.scss",
 		"themes/hugo-theme-re-terminal-main/assets/css/variables.scss",
